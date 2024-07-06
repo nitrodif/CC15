@@ -3,7 +3,7 @@
 import React from 'react';
 import './App.css'; // Import CSS for styling
 
-import PersonalInfo from './components/PersonalInfo';
+import PersonalInfo from './PersonalInfo.js';
 import Skills from './components/Skills';
 import Experience from './components/Experience';
 import Education from './components/Education';
