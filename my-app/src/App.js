@@ -5,7 +5,7 @@ import './App.css'; // Import CSS for styling
 
 import PersonalInfo from './PersonalInfo.js';
 import Skills from './Skills.js'
-import Experience from './components/Experience';
+import Experience from './Experience.js';
 import Education from './components/Education';
 
 function App() {
